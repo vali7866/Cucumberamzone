@@ -43,35 +43,35 @@ formatter.match({
   "location": "StepRunner.user_is_on_amazon_Home_Page()"
 });
 formatter.result({
-  "duration": 5590589582,
+  "duration": 5129540350,
   "status": "passed"
 });
 formatter.match({
   "location": "StepRunner.user_Navigate_to_LogIn_Page()"
 });
 formatter.result({
-  "duration": 6769204812,
+  "duration": 7601570781,
   "status": "passed"
 });
 formatter.match({
   "location": "StepRunner.user_enters_UserName_and_Password()"
 });
 formatter.result({
-  "duration": 88957710447,
+  "duration": 106131246488,
   "status": "passed"
 });
 formatter.match({
   "location": "StepRunner.message_displayed_Login_Successfully()"
 });
 formatter.result({
-  "duration": 67633510,
+  "duration": 87599586,
   "status": "passed"
 });
 formatter.match({
   "location": "StepRunner.user_search_books_and_click_on_Search_button()"
 });
 formatter.result({
-  "duration": 22322145444,
+  "duration": 82951416166,
   "status": "passed"
 });
 });

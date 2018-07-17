@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="201.901373">
+<testcase classname="Login amazon Action" name="Successful amazon Login with Valid Credentials" time="201.901373">
+<system-out><![CDATA[Given User is on amazon Home Page...........................................passed
+When User Navigate to LogIn Page............................................passed
+And User enters UserName and Password.......................................passed
+Then Message displayed Login Successfully...................................passed
+Then user search books and click on Search button...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
